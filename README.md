@@ -1,1 +1,1 @@
-# Sem-1-DSC-3-Practicals
+# Practicals for Semester 1 DSC-1 PROGRAMMING USING PYTHON
